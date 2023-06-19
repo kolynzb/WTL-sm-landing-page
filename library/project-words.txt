@@ -366,6 +366,7 @@ treeify
 treosh
 triaging
 tses
+wingersoft
 twoslash
 typecheck
 typechecks
