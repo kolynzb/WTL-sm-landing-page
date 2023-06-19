@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Pinwheel Astro",
-    "base_url": "https://pinwheel-astro.vercel.app",
+    "title": "SalesManager",
+    "base_url": "https://salesmanager.vercel.app/",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "https://wingersoft.co.ug/sm/wp-content/uploads/2019/05/SM_LogoByN-1.png",
+    "logo": "https://wingersoft.co.ug/sm/wp-content/uploads/2019/05/SM_LogoName.png",
     "logo_width": "147",
     "logo_height": "31",
-    "logo_text": "Pinwheel"
+    "logo_text": "SalesManager"
   },
 
   "settings": {
@@ -18,32 +18,32 @@
   },
 
   "call_to_action": {
-    "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "title": "Simplifying sales, inventory, financial records",
+    "description": "Comprehensive solution for efficiently managing sales, purchases, inventory, expenses, and financial records. With its wide range of features, it enables you to streamline your business operations and automate repetitive tasks. By utilizing automation, you and your team can dedicate more time to essential responsibilities.",
     "button": {
-      "label": "Download The Theme",
-      "link": "https://themefisher.com/astro-themes/pinwheel-astro"
+      "label": "Request Free Trial",
+      "link": "https://salesmanager.vercel.app/"
     }
   },
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "wingersoft-sales-manager",
     "settings": {}
   },
 
   "params": {
-    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
-    "phone": "+704-555-0127",
+    "footer_description": "Simplify sales, purchases, inventory, expenses, and financial records with automation for increased efficiency and time savings.",
+    "email": "sales@wingersoft.co.ug",
+    "location": "Plot 1812, Hillcrest Apartments & Offices, Bukoto - Kisaasi Rd, Kampala, Uganda",
+    "phone": "+256-392000708",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2023 Sale Manager by [WINGERsoft](https://wingersoft.co.ug/)"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "WINGERsoft",
     "meta_image": "/images/og-image.png",
-    "meta_description": "pinwheel astro"
+    "meta_description": "WINGERsoft sales manager"
   }
 }
