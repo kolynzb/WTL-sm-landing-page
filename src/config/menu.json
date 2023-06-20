@@ -22,14 +22,14 @@
       "url": "/how-it-works"
     },
     {
+      "name": "Clientele",
+      "url": "/career"
+    },
+    {
       "name": "Pages",
       "url": "",
       "hasChildren": true,
       "children": [
-        {
-          "name": "Career",
-          "url": "/career"
-        },
         {
           "name": "Blog",
           "url": "/blog"
@@ -43,7 +43,6 @@
           "name": "Sign In",
           "url": "/signin"
         },
-
         {
           "name": "Elements",
           "url": "/elements"
@@ -74,12 +73,12 @@
       "url": "/contact"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Pricing",
+      "url": "/pricing"
     },
     {
-      "name": "Changelog",
-      "url": "/changelog"
+      "name": "Terms And Conditions",
+      "url": "/terms-and-conditions"
     }
   ]
 }
