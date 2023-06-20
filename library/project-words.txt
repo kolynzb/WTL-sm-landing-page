@@ -1,4 +1,3 @@
-atuhaire
 algoliasearch
 anonymized
 anshul
@@ -10,6 +9,7 @@ applanga
 architecting
 astro
 atrule
+atuhaire
 autoconverted
 autogen
 autogenerating
@@ -36,11 +36,12 @@ candillon
 cdabcdab
 cdpath
 cena
-changefreq
 chakra
+changefreq
 chedeau
 cheng
 clément
+cloudinary
 clsx
 codegen
 codeql
@@ -56,8 +57,6 @@ csapo
 cssnano
 csvg
 customizability
-cloudinary
-dabit
 dabit
 daishi
 datagit
@@ -85,6 +84,7 @@ dogfooding
 dojocat
 dyte
 easyops
+EFRIS
 endi
 endilie
 endiliey
@@ -96,7 +96,6 @@ eslintcache
 estree
 evaluable
 execa
-execa
 externalwaiting
 failfast
 fbid
@@ -107,8 +106,8 @@ formik
 fouc
 froms
 funboxteam
-gantt
 gabrielcsapo
+gantt
 getopts
 gitgraph
 gitpod
@@ -116,13 +115,14 @@ globbing
 globby
 goss
 goyal
-gruntfuggly
-grimoire
 grih-mwar
+grimoire
+gruntfuggly
 gtag
 hahaha
 hamel
 hardcoding
+hastscript
 hasura
 heavener
 héctor
@@ -181,6 +181,7 @@ mathjax
 maxlynch
 maxresdefault
 mdast
+mdwn
 mdxa
 mdxast
 mdxhast
@@ -195,9 +196,8 @@ minifier
 mkcert
 mkdir
 mkdirs
-mkdocs
 mkdn
-mdwn
+mkdocs
 mkdown
 moesif
 msapplication
@@ -207,8 +207,8 @@ nand
 navigations
 navlink
 netrc
-nextra
 nextjs
+nextra
 ngryman
 nisarag
 noflash
@@ -316,7 +316,7 @@ serializers
 setaf
 setext
 shiki
-shiki
+shortcodes
 showinfo
 sida
 signup
@@ -346,7 +346,6 @@ subsubfolder
 subsubsection
 subsubsubfolder
 sucipto
-shortcodes
 sunsetting
 supabase
 svgr
@@ -354,7 +353,6 @@ swizzlable
 teik
 templating
 thanos
-turborepo
 therox
 toolset
 toplevel
@@ -366,7 +364,7 @@ treeify
 treosh
 triaging
 tses
-wingersoft
+turborepo
 twoslash
 typecheck
 typechecks
@@ -403,6 +401,7 @@ webfactory
 webp
 webpackbar
 webstorm
+wingersoft
 wolcott
 writeups
 xclip
@@ -412,4 +411,3 @@ yacop
 zhou
 zoomable
 zpao
-hastscript
