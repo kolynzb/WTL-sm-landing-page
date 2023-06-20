@@ -3,11 +3,12 @@ exports.__esModule = true;
 var fs = require("fs");
 /**
  * Sorts the words in a text file in alphabetical order.
+ * Converts all words to lowercase.
  * @param filePath - The path to the text file.
  */
 function sortWordsInFile(filePath) {
     var fileContent = fs.readFileSync(filePath, 'utf-8');
-    var words = fileContent.split('\n').filter(Boolean);
+    var words = fileContent.toLowerCase().split('\n').filter(Boolean);
     var sortedWords = words.sort();
     var sortedContent = sortedWords.join('\n');
     fs.writeFileSync(filePath, sortedContent);
@@ -15,4 +16,4 @@ function sortWordsInFile(filePath) {
 // Usage Example
 var filePath = './library/project-words.txt';
 sortWordsInFile(filePath);
-console.log('File successfully sorted!');
+console.log('File successfully sorted! All words are in lowercase.');
