@@ -16,4 +16,4 @@ function sortWordsInFile(filePath) {
 // Usage Example
 var filePath = './library/project-words.txt';
 sortWordsInFile(filePath);
-console.log('File successfully sorted! All words are in lowercase.');
+console.log('File successfully sorted! 😉 \n All words are in lowercase.🤏🏿');
