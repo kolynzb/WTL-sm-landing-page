@@ -10,8 +10,8 @@ banner:
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Deliver Unforgettable Experiences"
+  description: At SalesManager, we understand the significance of customer satisfaction in driving business success. That's why our feature-packed SalesManager POS system is designed to empower you in creating unforgettable customer experiences.
   feature_list:
     - icon: "map" #icon package react-feather-icon [https://feathericons.com/]
       title: Live Caption
@@ -37,56 +37,50 @@ key_features:
     - icon: "bell" #icon package react-feather-icon [https://feathericons.com/]
       title: Sound Amplifier
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map" #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor" #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 #service
 service:
   homepage_tab:
-    title: Prevent failure from to impacting your reputation
-    description: Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.
+    title: Enhance Customer Satisfaction with SalesManager POS
+    description: Elevate your customer satisfaction levels and set yourself apart from the competition with SalesManager POS. Unlock the power of our robust features to create exceptional experiences that leave a lasting impression on your customers.
     tab_list:
-      - title: Habit building essential choose habit
+      - title: SalesManager is integrated with URA EFRIS
         icon: "lock" #icon package react-feather-icon [https://feathericons.com/]
-        image: "/images/sells-by-country.png"
-      - title: Get an overview of Habit Calendars.
+        image: "https://wingersoft.co.ug/sm/wp-content/uploads/2021/03/Flyer-EFRIS-SM_Website.png"
+      - title: Switch to a POINT-OF-SALE (POS) system.
         icon: "clock" #icon package react-feather-icon [https://feathericons.com/]
-        image: "/images/collaboration.png"
-      - title: Start building with Habitify platform
+        image: "https://wingersoft.co.ug/sm/wp-content/uploads/2019/05/wbms-system-logo.png"
+      - title: Know traffic lights for your business
         icon: "bell" #icon package react-feather-icon [https://feathericons.com/]
-        image: "/images/sells-by-country.png"
+        image: "https://wingersoft.co.ug/sm/wp-content/uploads/2019/05/Traffic-Lights.png"
 
   our_service:
-    - title: Accept payments any country in this whole universe
-      desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
-      image: "/images/collaboration.png"
+    - title: Why SalesManager?
+      desctiption: Experience streamlined sales operations with SalesManager. Customize the system to match your requirements, eliminate complexity, and empower your team. No highly educated employees needed – SalesManager is user-friendly for all. Plus, get ongoing training and support, ensuring you get the most out of your investment. Discover SalesManager today.
+      image: "https://wingersoft.co.ug/sm/wp-content/uploads/2019/05/Slide_2_Image.png"
       list:
-        - Supporting more than 119 country world
-        - Open transaction with more than currencies
-        - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+        - Do not be forced to adapt to a system! We work with you to customize SalesManager to cater for your needs.
+        - You do not need highly educated employees! SalesManager is simple to use and can be used by anyone.
+        - Get value for your money! We will train and support you and your employees whenever you need us.
+    - title: SalesManager is integrated with URA EFRIS
+      description: Are you struggling to generate sales invoices and push them to the Uganda Revenue Authority (URA) Electronic Invoicing System (EFRIS)?Help has arrived! Integrate your business with URA EFRIS in one day using SalesManager system.SalesManager has been tested thoroughly by URA and has been found to be compliant with all the URA EFRIS business requirements.
       video:
         thumbnail: "https://wingersoft.co.ug/sm/wp-content/uploads/2019/05/bigstock-Point-Of-Sale-System-For-Retai-227403136.jpg"
-        video_id: "g3-VxLQO7do"
+        video_id: "HmD1xwwFnfM"
       button:
-        label: Know About Us
-        link: "#"
+        label: View Accreditation Certificate
+        link: "https://wingersoft.co.ug/sm/wp-content/uploads/2021/03/CERTIFICATE-WINGERSOFT-TECHNOLOGIES-LTD-1.pdf"
         enable: true
 
 #testimonial
 testimonial:
   title: Our customers have nice things to say about us
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  description: Discover why businesses like yours love SalesManager. Don't just take our word for it, read testimonials from our satisfied clients who have experienced the benefits firsthand.
   testimonial_list:
     - author: Ms Catherine Kyarisiima
       avatar: "https://wingersoft.co.ug/sm/wp-content/uploads/2019/05/sales-chain.png"
       organization: Star Care(U) Ltd
-      rating: four
+      rating: five
       content: SalesManager has helped me stay in control of my stock even when i am away, helps me predict my sales, the moving items to concentrate on stocking and the expenses to focus on curbing, i love that it is very easy to teach and i never have problems when i change staff.
     - author: Mrs Eunice Ahabwe
       avatar: "https://wingersoft.co.ug/sm/wp-content/uploads/2020/02/flavish.png"
