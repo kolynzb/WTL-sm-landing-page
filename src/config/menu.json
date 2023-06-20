@@ -9,15 +9,16 @@
       "url": "/about"
     },
     {
-      "name": "Blog",
-      "url": "/blog"
+      "name": "Pricing",
+      "url": "/pricing"
     },
+
     {
       "name": "Features",
       "url": "/features"
     },
     {
-      "name": "How It Works",
+      "name": "Why SM",
       "url": "/how-it-works"
     },
     {
@@ -29,16 +30,15 @@
           "name": "Career",
           "url": "/career"
         },
-
+        {
+          "name": "Blog",
+          "url": "/blog"
+        },
         {
           "name": "Integrations",
           "url": "/integrations"
         },
 
-        {
-          "name": "Pricing",
-          "url": "/pricing"
-        },
         {
           "name": "Sign In",
           "url": "/signin"
