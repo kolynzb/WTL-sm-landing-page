@@ -8,7 +8,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "json": "node scripts/jsonGenerator.js",
-    "format": "prettier -w ."
+    "format": "prettier -w .",
+    "dict:sort":"node library/sortword.util.js"
   },
   "dependencies": {
     "@astrojs/image": "^0.16.6",
