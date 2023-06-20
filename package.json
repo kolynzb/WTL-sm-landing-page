@@ -9,7 +9,7 @@
     "build": "astro build",
     "json": "node scripts/jsonGenerator.js",
     "format": "prettier -w .",
-    "dict:sort":"node library/sortword.util.js"
+    "dict:sort": "node scripts/wordSort.js"
   },
   "dependencies": {
     "@astrojs/image": "^0.16.6",
