@@ -72,10 +72,10 @@
 
   &.warning {
     .notice-head {
-      @apply bg-[#ff918c];
+      @apply bg-[#FF0000];
     }
     .notice-body {
-      @apply bg-[#ff918c]/25;
+      @apply bg-[#FF0000]/25;
     }
   }
 }
