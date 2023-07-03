@@ -2,7 +2,7 @@
 banner:
   title: "Streamline and Scale Your Operations with SaleManager"
   content: "Efficiently organize, track, and manage every aspect of your sales, purchases, inventory, expenses, and financial records."
-  image: https://wingersoft.co.ug/sm/wp-content/uploads/2019/05/Slide_1_Image.png
+  image: https://res.cloudinary.com/kolynz-b/image/upload/v1688394550/wingerstore/wingersoft/Slide_1_Image-removebg-preview_nut5tv.png
   button:
     label: Request A Demo
     link: "https://wingersoft.co.ug/sm"
