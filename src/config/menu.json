@@ -5,15 +5,6 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Pricing",
-      "url": "/pricing"
-    },
-
-    {
       "name": "Features",
       "url": "/features"
     },
@@ -22,41 +13,19 @@
       "url": "/how-it-works"
     },
     {
+      "name": "Pricing",
+      "url": "/pricing"
+    },
+    {
       "name": "Clientele",
       "url": "/career"
     },
     {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Blog",
-          "url": "/blog"
-        },
-        {
-          "name": "Integrations",
-          "url": "/integrations"
-        },
-
-        {
-          "name": "Sign In",
-          "url": "/signin"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Changelog",
-          "url": "/changelog"
-        },
-        {
-          "name": "Terms And Conditions",
-          "url": "/terms-and-conditions"
-        }
-      ]
+      "name": "About",
+      "url": "/about"
     },
+
+   
     {
       "name": "Contact",
       "url": "/contact"
