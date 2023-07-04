@@ -13,13 +13,13 @@ const JobPosts = ({ posts, categories, career: { title, subtitle } }) => {
       <div className="container">
         <div className="row">
           <div className="mx-auto text-center lg:col-8">
-            <h2>{title}</h2>
+            {/* <h2>{title}</h2>
             <p
               className="mt-4"
               dangerouslySetInnerHTML={{ __html: marked.parseInline(subtitle) }}
-            />
+            /> */}
 
-            <ul className="filter-list mt-8 flex flex-wrap items-center justify-center">
+            <ul className="filter-list mt-2 flex flex-wrap items-center justify-center">
               <li>
                 <span
                   className={`filter-btn ${
