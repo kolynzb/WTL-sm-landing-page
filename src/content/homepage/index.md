@@ -8,6 +8,26 @@ banner:
     link: "https://wingersoft.co.ug/sm"
     enable: true
 
+# counter
+counter:
+  - name: "Happy Customers"
+    number: 422
+    messurment: M
+    symbol: +
+    color: "#A3A1FB"
+  - name: "Affordable"
+    number: 100
+    messurment: M
+    color: "#5EE2A0"
+  - name: "Free Support"
+    number: 100
+    messurment: K
+    color: "#FE6019"
+  - name: "Onsite or Offsite"
+    number: 100
+    messurment: K
+    color: "#FEC163"
+
 ##key features
 key_features:
   title: "Deliver Unforgettable Experiences"
