@@ -17,7 +17,7 @@ const { counter } = Astro.props;
                 color: item.color,
               }}
             >
-              +
+            { item.symbol || "%"}
             </span>
           </h2>
           <p>{item.name}</p>
