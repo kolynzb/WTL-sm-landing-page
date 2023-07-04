@@ -77,7 +77,7 @@ service:
   our_service:
     - title: Why SalesManager?
       desctiption: Experience streamlined sales operations with SalesManager. Customize the system to match your requirements, eliminate complexity, and empower your team. No highly educated employees needed – SalesManager is user-friendly for all. Plus, get ongoing training and support, ensuring you get the most out of your investment. Discover SalesManager today.
-      image: "https://wingersoft.co.ug/sm/wp-content/uploads/2019/05/Slide_2_Image.png"
+      image: "https://res.cloudinary.com/kolynz-b/image/upload/v1688478435/wingerstore/wingersoft/Slide_2_Image-removebg-preview_kkkgge.png"
       list:
         - Do not be forced to adapt to a system! We work with you to customize SalesManager to cater for your needs.
         - You do not need highly educated employees! SalesManager is simple to use and can be used by anyone.

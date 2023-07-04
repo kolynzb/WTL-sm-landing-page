@@ -18,7 +18,7 @@ const { main }: { main: NavigationLink[] } = menu;
 const { pathname } = Astro.url;
 ---
 
-<header class="header">
+<header class="header header-sticky">
   <nav class="navbar container">
     <!-- logo -->
     <div class="order-0">
@@ -133,6 +133,7 @@ const { pathname } = Astro.url;
 
   //sticky header
   const header = document.querySelector(".header");
+  console.log("scrollerd",header)
   window.addEventListener("scroll", () => {
     const scrollY = window.scrollY;
     if (scrollY > 0) {

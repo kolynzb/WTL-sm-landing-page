@@ -15,11 +15,11 @@ const { homepage_tab, our_service } = service;
         <div class="gx-5 row mt-12 items-center lg:mt-0">
           <div class={`lg:col-7 ${index % 2 === 0 ? "order-0" : "order-1"}`}>
             {item.image && (
-              <div class="relative">
+              <div class="relative mb-2">
                 <Image
-                  class="w-full object-contain"
+                  class="w-full object-contain scale-60"
                   alt="service"
-                  width={667}
+                  width={780}
                   height={498}
                   src={item.image}
                 />
