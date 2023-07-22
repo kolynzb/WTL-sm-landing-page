@@ -9,8 +9,8 @@ banner:
     link: "https://wingersoft.co.ug/sm/download/salesmanager-bronchure/"
     enable: true
 project_management:
-  title: Explore the Key Features <br /> of WINGERsoft SalesManager.
-  content: Discover the game-changing features of WINGERsoft SalesManager designed to revolutionize your business operations. From seamless sales tracking to intelligent inventory management, expense tracking, and comprehensive financial reporting, our solution empowers you to maximize efficiency and stay ahead in today's competitive landscape.<br/> Experience the power of streamlined business management with WINGERsoft SalesManager.
+  title: Explore SalesManager  <br /> Features .
+  content: Discover the game-changing features of SalesManager designed to revolutionize your business operations.
 
   management:
     title: Project Management
