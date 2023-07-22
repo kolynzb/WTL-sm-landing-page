@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "Streamline and Scale Your Operations with SaleManager"
+  title: "It's Time For A Change To A New System"
   content: "Efficiently organize, track, and manage every aspect of your sales, purchases, inventory, expenses, and financial records."
   image: https://res.cloudinary.com/kolynz-b/image/upload/v1688394550/wingerstore/wingersoft/Slide_1_Image-removebg-preview_nut5tv.png
   button:
