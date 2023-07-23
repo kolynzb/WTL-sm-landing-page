@@ -97,21 +97,6 @@ testimonial:
   title: Our customers have nice things to say about us
   description: Discover why businesses like yours love SalesManager. Don't just take our word for it, read testimonials from our satisfied clients who have experienced the benefits firsthand.
   testimonial_list:
-    - author: Ms Catherine Kyarisiima
-      avatar: "https://wingersoft.co.ug/sm/wp-content/uploads/2019/05/sales-chain.png"
-      organization: Star Care(U) Ltd
-      rating: five
-      content: SalesManager has helped me stay in control of my stock even when i am away, helps me predict my sales, the moving items to concentrate on stocking and the expenses to focus on curbing, i love that it is very easy to teach and i never have problems when i change staff.
-    - author: Mrs Eunice Ahabwe
-      avatar: "https://wingersoft.co.ug/sm/wp-content/uploads/2020/02/flavish.png"
-      organization: Flavish Events Ltd
-      rating: four
-      content: The system itself is more user-friendly than all our previous POS systems we had tried. But most of it all is the customer care of the SalesManager team, they never get tired of supporting us they are always available to help and support any time we reach out to them, they always make sure we are running fine..
-    - author: Dr Doris Mutabazi
-      avatar: "https://wingersoft.co.ug/sm/wp-content/uploads/2020/07/cropped-logo-green-150x73.png"
-      organization: Semliki Group of Companies
-      rating: five
-      content: “We thank Wingersoft technologies for the wonderful job in helping us develop a software for our inventory management. The team was professional and kept us on target and focused. They worked closely with us throughout the process. We are now able to monitor our raw materials, machine spare parts and finished stock levels easily. I have no reservation in recommending Wingersoft for development of customized inventory software for warehouses and manufacturers.” Doris Mutabazi Semliki Group of Companies.
     - author: Mrs Gladys Hongera Murungi
       avatar: "https://wingersoft.co.ug/sm/wp-content/uploads/2020/02/agape.jpg"
       organization: Agape Electricals and Electronics
@@ -125,7 +110,7 @@ testimonial:
     - author: Ms Jesca Awori
       avatar: "https://wingersoft.co.ug/sm/wp-content/uploads/2019/05/item-mgt-good.jpg"
       organization: J & R Supermarket
-      rating: three
+      rating: five
       content: I love the simplicity of SalesManager System and having control of it where I don’t have to be at the business. When I use SalesManager System to access my data, I can do it from the comfort of my home..
     - author: Dr Boaz Nyakira
       avatar: "https://wingersoft.co.ug/sm/wp-content/uploads/2020/02/pharmacy.jpg"
@@ -156,5 +141,21 @@ testimonial:
       avatar: "https://wingersoft.co.ug/sm/wp-content/uploads/2020/08/kwenu-150x150.png"
       organization: KweNu Juice & Salad Bar
       rating: five
-      content: Dear Wence and Team, I would like to take a moment to extend my gratitude to you and your team for walking with us as we transition from an analogue way of collecting and keeping our business records. Your point of sale system has changed the way we do business, we don't have a hip of paper work in the office and extracting data is now so easy! But above all, your patience and flexibility to work with the many changes we wanted is very appreciated. I will always recommend you with confidence!.
+      content: Dear Wence and Team, I would like to take a moment to extend my gratitude to you and your team for walking with us as we transition from an analogue way of collecting and keeping our business records. Your point of sale system has changed the way we do business, we don't have a hip of paper work in the office and extracting data is now so easy! But above all, your patience and flexibility to work with the many changes we wanted is very appreciated. I will always recommend you with confidence!
+    - author: Ms Catherine Kyarisiima
+      avatar: "https://wingersoft.co.ug/sm/wp-content/uploads/2019/05/sales-chain.png"
+      organization: Star Care(U) Ltd
+      rating: five
+      content: SalesManager has helped me stay in control of my stock even when i am away, helps me predict my sales, the moving items to concentrate on stocking and the expenses to focus on curbing, i love that it is very easy to teach and i never have problems when i change staff.
+    - author: Mrs Eunice Ahabwe
+      avatar: "https://wingersoft.co.ug/sm/wp-content/uploads/2020/02/flavish.png"
+      organization: Flavish Events Ltd
+      rating: five
+      content: The system itself is more user-friendly than all our previous POS systems we had tried. But most of it all is the customer care of the SalesManager team, they never get tired of supporting us they are always available to help and support any time we reach out to them, they always make sure we are running fine..
+
+    - author: Dr Doris Mutabazi
+      avatar: "https://wingersoft.co.ug/sm/wp-content/uploads/2020/07/cropped-logo-green-150x73.png"
+      organization: Semliki Group of Companies
+      rating: five
+      content: “We thank Wingersoft technologies for the wonderful job in helping us develop a software for our inventory management. The team was professional and kept us on target and focused. They worked closely with us throughout the process. We are now able to monitor our raw materials, machine spare parts and finished stock levels easily. I have no reservation in recommending Wingersoft for development of customized inventory software for warehouses and manufacturers.” Doris Mutabazi Semliki Group of Companies.
 ---
