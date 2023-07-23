@@ -1,11 +1,11 @@
 ---
 banner:
   title: "It's Time For A Change To A New System"
-  content: "Efficiently organize, track, and manage every aspect of your sales, purchases, inventory, expenses, and financial records."
-  image: https://res.cloudinary.com/kolynz-b/image/upload/v1688394550/wingerstore/wingersoft/Slide_1_Image-removebg-preview_nut5tv.png
+  content: "A system that simplifies recording of business sales and inventory operations, saves you valuable time, and is backed by reliable support."
+  image: https://res.cloudinary.com/kolynz-b/image/upload/v1690141152/wingerstore/wingersoft/Slide_1_Image-removebg-preview_nut5tv_xoloyi.png
   button:
-    label: Request A Demo
-    link: "https://wingersoft.co.ug/sm"
+    label: More Info
+    link: "/features"
     enable: true
 
 # counter
@@ -30,7 +30,7 @@ counter:
 
 ##key features
 key_features:
-  title: "Deliver Unforgettable Experiences"
+  title: "What is SalesManager?"
   description: At SalesManager, we understand the significance of customer satisfaction in driving business success. That's why our feature-packed SalesManager POS system is designed to empower you in creating unforgettable customer experiences.
   feature_list:
     - icon: "map" #icon package react-feather-icon [https://feathericons.com/]
