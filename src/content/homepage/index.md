@@ -36,19 +36,19 @@ key_features:
     - icon: "monitor" #icon package react-feather-icon [https://feathericons.com/]
       title: Live Caption
       content: It is a software that runs on personal computers (desktops and laptops), smartphones, and  tablets
-    - icon: "printer" #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "lock" #icon package react-feather-icon [https://feathericons.com/]
       title: Smart Reply
       content: Includes a Point of Sale (POS)
-    - icon: "printer" #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "link" #icon package react-feather-icon [https://feathericons.com/]
       title: Sound Amplifier
       content: Supports various hardware including  Computer, Barcode Scanner,Receipt Printer, Cash Drawer, Customer Stand
     - icon: "monitor" #icon package react-feather-icon [https://feathericons.com/]
       title: Sound Amplifier
       content: Supports both touchscreen and normal computers
-    - icon: "book-open" #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "monitor" #icon package react-feather-icon [https://feathericons.com/]
       title: Smart Reply
       content: All in one package Point of Sale (POS), Accounting, and Inventory
-    - icon: "shopping-bag" #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "monitor" #icon package react-feather-icon [https://feathericons.com/]
       title: Live Caption
       content: Supports both product and service businesses
     - icon: "cloud" #icon package react-feather-icon [https://feathericons.com/]
