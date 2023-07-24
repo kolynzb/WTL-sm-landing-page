@@ -61,8 +61,8 @@ key_features:
 #service
 service:
   homepage_tab:
-    title: Enhance Customer Satisfaction with SalesManager POS
-    description: Elevate your customer satisfaction levels and set yourself apart from the competition with SalesManager POS. Unlock the power of our robust features to create exceptional experiences that leave a lasting impression on your customers.
+    title: Integration with Country Revenue and Tax Authorities
+    description: We take compliance with taxation laws seriously, and with SalesManager, you can rest assured that our system is fully integrated with the specific Country Revenue and Tax Authorities wherever it operates. Trust SalesManager to keep you compliant, so you can focus on growing your business with peace of mind.
     tab_list:
       - title: SalesManager is integrated with URA EFRIS
         icon: "lock" #icon package react-feather-icon [https://feathericons.com/]
