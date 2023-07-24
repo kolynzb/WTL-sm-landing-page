@@ -20,6 +20,7 @@ const {
 <a href="/" class="navbar-brand block">
   {
     src || logo ? (
+      <div class="flex items-center ">
       <Image
         width={logo_width.replace("px", "") * 2}
         height={logo_height.replace("px", "") * 2}
@@ -30,6 +31,9 @@ const {
           width: logo_width.replace("px", "") + "px",
         }}
       />
+
+    {logo_text && <span class="pl-1">{logo_text}</span>}
+    </div>
     ) : logo_text ? (
       logo_text
     ) : (
