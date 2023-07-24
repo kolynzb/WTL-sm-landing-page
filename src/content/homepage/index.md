@@ -33,30 +33,30 @@ key_features:
   title: "What is SalesManager?"
   description: At SalesManager, we understand the significance of customer satisfaction in driving business success. That's why our feature-packed SalesManager POS system is designed to empower you in creating unforgettable customer experiences.
   feature_list:
-    - icon: "map" #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "lock" #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "link" #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell" #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "monitor" #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map" #icon package react-feather-icon [https://feathericons.com/]
       title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "link" #icon package react-feather-icon [https://feathericons.com/]
+      content: It is a software that runs on personal computers (desktops and laptops), smartphones, and  tablets
+    - icon: "printer" #icon package react-feather-icon [https://feathericons.com/]
+      title: Smart Reply
+      content: Includes a Point of Sale (POS)
+    - icon: "printer" #icon package react-feather-icon [https://feathericons.com/]
       title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell" #icon package react-feather-icon [https://feathericons.com/]
+      content: Supports various hardware including  Computer, Barcode Scanner,Receipt Printer, Cash Drawer, Customer Stand
+    - icon: "monitor" #icon package react-feather-icon [https://feathericons.com/]
       title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      content: Supports both touchscreen and normal computers
+    - icon: "book-open" #icon package react-feather-icon [https://feathericons.com/]
+      title: Smart Reply
+      content: All in one package Point of Sale (POS), Accounting, and Inventory
+    - icon: "shopping-bag" #icon package react-feather-icon [https://feathericons.com/]
+      title: Live Caption
+      content: Supports both product and service businesses
+    - icon: "cloud" #icon package react-feather-icon [https://feathericons.com/]
+      title: Sound Amplifier
+      content: Can be hosted on a single device or local area network (LAN) or in the cloud.
+    - icon: "navigation" #icon package react-feather-icon [https://feathericons.com/]
+      title: Sound Amplifier
+      content: Easy to use so that anyone can navigate through the system effortlessly.
 
 #service
 service:
