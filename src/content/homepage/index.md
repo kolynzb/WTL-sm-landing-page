@@ -11,7 +11,7 @@ banner:
 # counter
 counter:
   - name: "Happy Customers"
-    number: 422
+    number: 450
     messurment: M
     symbol: +
     color: "#A3A1FB"
