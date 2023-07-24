@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "It's Time For A Change To A New System"
+  title: "It's time for a change to a new system"
   content: "A system that simplifies recording of business sales and inventory operations, saves you valuable time, and is backed by reliable support."
   image: https://res.cloudinary.com/kolynz-b/image/upload/v1690141152/wingerstore/wingersoft/Slide_1_Image-removebg-preview_nut5tv_xoloyi.png
   button:
