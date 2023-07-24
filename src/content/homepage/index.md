@@ -82,7 +82,7 @@ service:
         - Do not be forced to adapt to a system! We work with you to customize SalesManager to cater for your needs.
         - You do not need highly educated employees! SalesManager is simple to use and can be used by anyone.
         - Get value for your money! We will train and support you and your employees whenever you need us.
-    - title: SalesManager is integrated with URA EFRIS
+    - title:
       description: Are you struggling to generate sales invoices and push them to the Uganda Revenue Authority (URA) Electronic Invoicing System (EFRIS)?Help has arrived! Integrate your business with URA EFRIS in one day using SalesManager system.SalesManager has been tested thoroughly by URA and has been found to be compliant with all the URA EFRIS business requirements.
       video:
         thumbnail: "https://wingersoft.co.ug/sm/wp-content/uploads/2019/05/bigstock-Point-Of-Sale-System-For-Retai-227403136.jpg"
